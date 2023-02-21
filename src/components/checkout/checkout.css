@@ -1,0 +1,68 @@
+.main{
+    align-items: center;
+    background-image: url(https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG90ZWx8ZW58MHx8MHx8&w=1000&q=80);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+
+.midContainer{
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    margin-left: 700px;
+    min-height: 550px;
+    width: 400px;
+}
+
+.head{
+    color: #1c8181;
+    margin-left: 110px;
+   background-color: white;
+   font-weight: 500;
+}
+
+.head,.rupees{
+    font-size: 30px;
+}
+.rupees{
+    float: right;
+    margin-right: 15px;
+}
+.bill{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.text{
+    font-size: 20px;
+    font-weight: 600px;
+}
+
+.payment{
+    margin-left: 70px;
+}
+
+.nameCard, .nameEnter{
+    margin-left: 30px;
+}
+
+.btnn{
+    background-color: #003580;
+    border-radius: 5px;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 30px;
+    width: 80%;
+    border: none;
+}
+
+.btnn:hover{
+    background-color: cyan;
+}
+
